@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+elasticsearch
+elasticsearch-dsl
+hmmviz
+hmmlearn
+pomegranate
+watermark
